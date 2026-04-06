@@ -1,0 +1,28 @@
+# --- Data ---
+data/
+*.zip
+*.csv
+*.parquet
+*.db
+
+# --- Python virtual environment ---
+.venv/
+venv/
+
+# --- Jupyter Notebook artifacts ---
+.ipynb_checkpoints/
+
+# --- Python cache / compiled files ---
+__pycache__/
+*.pyc
+
+# --- OS / editor files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- SQL Server artefacts (pro jistotu) ---
+*.mdf
+*.ldf
+``
